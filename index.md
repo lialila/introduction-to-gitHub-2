@@ -23,3 +23,8 @@ while (i >= 0) {
   i--;
 }
 ```
+- [x] Do HTML section
+- [x] Do CSS section
+- [x] Do JS section
+- [ ] Do Node.js section
+- [ ] Do React section
